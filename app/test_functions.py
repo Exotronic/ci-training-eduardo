@@ -1,4 +1,4 @@
-from app.functions import *
+from app/functions import *
 
 
 def test_es_par():
