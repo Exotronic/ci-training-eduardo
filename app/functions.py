@@ -1,8 +1,8 @@
 def es_par(value):
-    pass
+    return value % 2 == 0
 
 def es_impar(value):
-    pass
+    return value % 2 != 0
 
 def es_alfanumerico(value):
     pass
