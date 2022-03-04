@@ -5,4 +5,4 @@ def es_impar(value):
     return value % 2 != 0
 
 def es_alfanumerico(value):
-    pass
+    return value.isalnum()
